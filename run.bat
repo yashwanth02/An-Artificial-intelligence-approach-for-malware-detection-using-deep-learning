@@ -1,0 +1,2 @@
+python Malware.py
+pause
